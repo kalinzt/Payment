@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JAVA" injector-id="java">
+      <display-name>String.replace (java.lang)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("replace").withParameters("java.lang.CharSequence", "java.lang.CharSequence").definedInClass("java.lang.String"))]]></place>
+    </injection>
+  </component>
+</application>
